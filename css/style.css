@@ -1054,7 +1054,9 @@ select {
 }
 
 .r-div-1-text {
-  display: inline-block;
+     display: flex;
+    flex-direction: column;
+    gap: 8px;
 }
 
 .r-vector-1 {
